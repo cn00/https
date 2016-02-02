@@ -12,7 +12,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://192.168.10.124:8443/c/act.ipa</string>
+<string>http://123.59.55.123/c/act-15200-0.0.2.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -20,7 +20,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://192.168.10.124:8443/c/Icon-120.png</string>
+<string>http://123.59.55.123/Icon-120.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -28,7 +28,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://192.168.10.124:8443/c/Icon-120.png</string>
+<string>http://123.59.55.123/Icon-120.png</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -40,7 +40,7 @@
 <key>kind</key>
 <string>game</string>
 <key>title</key>
-<string>Installing the app</string>
+<string>Installing ActGame</string>
 </dict>
 </dict>
 </array>
