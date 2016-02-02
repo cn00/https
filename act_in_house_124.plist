@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://123.59.55.123/c/act-15200-0.0.2.ipa</string>
+					<string>http://192.168.10.124:8080/c/act-15200-0.0.2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://123.59.55.123/Icon-120.png</string>
+					<string>http://192.168.10.124:8080/c/Icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://123.59.55.123/Icon-120.png</string>
+					<string>http://192.168.10.124:8080/c/Icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>魔法少女小圆之魔女之夜</string>
+				<string>魔法少女小圆之魔女之夜【本地】</string>
 			</dict>
 		</dict>
 	</array>
