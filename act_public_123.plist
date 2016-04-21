@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://123.59.55.123/Icon-120.png</string>
+					<string>http://123.59.55.123/c/Icon-120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://123.59.55.123/Icon-120.png</string>
+					<string>http://123.59.55.123/c/Icon-120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>魔法少女小圆之魔女之夜</string>
+				<string>魔法少女小圆</string>
 			</dict>
 		</dict>
 	</array>
